@@ -1,6 +1,6 @@
 //"use strict"
 
-alert('hmmm');
+alert('Bem vindo :)');
 
 var hh = 0;
 var mm = 0;
